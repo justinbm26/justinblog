@@ -5,11 +5,11 @@ theme = "ghostwriter"
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "My Infosec Rambings"
+    headline = "Justin's Rambings"
     description = "My description"
     github = "https://github.com/justinbm26"
-    email = "justinmccannon@gmail.com"
-    opengraph = false
+    email = "justinbm262@gmail.com"
+    opengraph = true
     shareTwitter = false
     dateFormat = "Mon, Jan 2, 2006"
 
