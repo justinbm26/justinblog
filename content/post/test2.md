@@ -15,7 +15,7 @@ This is not code.
 `This is code.`
 
 This is a block of C# text
-{{< highlight csharep "linenos=table,hl_lines=8 15-17,linenostart=199" >}}
+```csharp
 public class test
 {
 	public static void Main(string[] args)
@@ -23,9 +23,7 @@ public class test
 		Console.WriteLine("This is only a test");
 	}
 }
-{{< / highlight >}}
-
-
+```
 ------------------------------
 
 This is me rambling on and on about nothing in particular.
