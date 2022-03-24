@@ -1,0 +1,17 @@
+baseurl = "/"
+title = "My blog"
+theme = "ghostwriter"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "My Infosec Rambings"
+    description = "My description"
+    github = "https://github.com/justinbm26"
+    email = "justinmccannon@gmail.com"
+    opengraph = false
+    shareTwitter = false
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/:filename/"
